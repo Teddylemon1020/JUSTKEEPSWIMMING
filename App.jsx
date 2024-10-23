@@ -32,7 +32,7 @@ const App = () => {
   return (
     <div className="App">
       <div className="header">
-        <h1>Hakdog</h1>
+        <h1>BEACON</h1>
       </div>
 
       <div className="button-container">
